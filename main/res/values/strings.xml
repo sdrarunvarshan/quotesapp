@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string-array name="quotes">
+        <item>"Be yourself; everyone else is already taken."\n\n<font size="30"><b>*** Oscar Wilde ***</b></font></item>
+        <item>"I\'m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don't deserve me at my best."\n\n<font size="30"><b>*** Marilyn Monroe ***</b></font></item>
+        <item>"Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe."\n\n<font size="30"><b>*** Albert Einstein ***</b></font></item>
+        <item>"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."\n\n<font size="30"><b>*** Bernard M. Baruch ***</b></font></item>
+        <item>"You only live once, but if you do it right, once is enough."\n\n<font size="30"><b>*** Mae West ***</b></font></item>
+        <item>"Be the change that you wish to see in the world."\n\n<font size="30"><b>*** Mahatma Gandhi ***</b></font></item>
+        <item>"If you tell the truth, you don't have to remember anything."\n\n<font size="30"><b>*** Mark Twain ***</b></font></item>
+        <item>"To live is the rarest thing in the world. Most people exist, that is all."\n\n<font size="30"><b>*** Oscar Wilde ***</b></font></item>
+        <item>"Live as if you were to die tomorrow. Learn as if you were to live forever."\n\n<font size="30"><b>*** Mahatma Gandhi ***</b></font></item>
+        <item>"It is better to be hated for what you are than to be loved for what you are not."\n\n<font size="30"><b>*** Andre Gide ***</b></font></item>
+    </string-array>
+    <string name="display_quote">Display Quote</string>
+    <string name="instruction_text">Please click the \"Display Quote\" button to show the quotes!!!</string>
+    <string name="last_quotes_message">No more quotes left. Thank You!!!"</string>
+    <string name="close_app">Close App</string>
+    <string name="share_quotes">Share Quotes</string>
+    <string name="search">Search</string>
+    <string name="add_favorites">ADD TO FAVORITES</string>
+    <string name="view_favorites">VIEW FAVORITES</string>
+</resources>
